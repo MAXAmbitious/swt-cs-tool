@@ -1,0 +1,6 @@
+运行环境：jdk7.0
+部署步骤：
+	1、在C盘根目录下新建文件夹printdesigner；
+	2、将当前文件夹printocx中的文件全部拷贝到C:/printdesigner中；
+	3、在电脑上注册C:/printdesigner目录下的ReceiptPrintOCX.ocx控件（可通过cmd命令语句：regsvr32 C:\printdesigner\ReceiptPrintOCX.ocx）；
+	4、点击run.bat即可运行。
